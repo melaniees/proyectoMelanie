@@ -1,0 +1,43 @@
+h1{
+    color: orange;
+
+    /*comentario*/
+
+    /*para agregar colores tengo 3 opciones
+    
+    RGB
+    RGBA, tiene alfa que es la transparencia, alpha va de 1 a 0(100% de transparencia)
+    HEXADECIMAL
+    NOMBRE DE COLOR
+    */
+
+    color: rgb(56,98,21);
+
+} 
+.letraTitulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.colorNav{
+    background-color:rgba(156, 156, 174, 0.767);
+}
+.colorWhite{
+    color: white;
+}
+.colorItem{
+    color:black;
+}
+li{
+    color: green;
+} 
+
+.titulo-lista{
+    color: aquamarine;
+    background-color: violet;
+}
+#li-rojo{
+    color: red;
+} 
+p span{
+    color: blue;
+}
